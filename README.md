@@ -64,9 +64,9 @@ getTotalSupply();
 
 ## Author
 
-Richard Pelarios BSIT
-@Chard-web
+Renzo Tugano BSIT
+@RenzsTugano1
 
 # LICENCE
-Copyright (c) 2023 Chard-web
+Copyright (c) 2024 RenzsTugano1
 
