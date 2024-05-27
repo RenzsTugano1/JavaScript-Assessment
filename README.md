@@ -1,8 +1,7 @@
 # JavaScript-Assessment
 
 # VIDEO LINK
-
-https://www.loom.com/share/319a47084bb0461fb453820032ab3beb
+https://drive.google.com/file/d/1iYnIMlRtBvYQ7srMupdKi5RGWRjWLB2c/view?usp=drivesdk
 
 # SUMMARY OF MY VIDEO
 Hi everyone, my name is Renzo and in this video, I will be going through my JavaScript assessment code. I will start by defining an array and naming it. Then, I will explain how to create an object inside the parameters and assign metadata values to it. Next, I will show you how to store variables in the created object. After that, I will demonstrate a loop and explain how to retrieve the total supply. Finally, I will provide an output example.
